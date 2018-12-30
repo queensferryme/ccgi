@@ -66,4 +66,4 @@ If you see something like `spawn-fcgi: child spawned successfully: PID: <pid>` ,
 
 ## About
 
-This project is part of the final project of *C Programming Language* & I have a blog post to explain in detail.
+This project is part of the final project of *C Programming Language* & I have a [blog post](https://queensferry.coding.me/2018/12/30/%E5%88%9D%E6%AD%A5%E8%AE%A4%E8%AF%86CGI-FastCGI%EF%BC%9A%E5%9F%BA%E6%9C%AC%E6%9E%B6%E6%9E%84%E4%B8%8EC%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0/) to explain in detail.
