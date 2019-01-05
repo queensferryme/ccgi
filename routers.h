@@ -164,7 +164,7 @@ void delete(char *query_string) {
 		sqlite3_bind_text(stmt, 1, id, strlen(id), NULL);
 		sqlite3_bind_text(stmt, 2, name, strlen(name), NULL);
 		sqlite3_step(stmt);
-		printf("{%s}", json_str_value("stauts", "success", temp));
+		printf("{%s}", json_str_value("status", "success", temp));
 	}
 	sqlite3_finalize(stmt);
 	sqlite3_close(db);
